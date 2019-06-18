@@ -1,0 +1,10 @@
+http:
+  server:
+    port: 8081
+
+
+jdbc: 
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/test?characterEncoding=utf8
+  username: root
+  password: root
